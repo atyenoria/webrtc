@@ -1,4 +1,4 @@
-#docker run -it --restart="on-failure:10" --net=host -p 3478:3478 -p 3478:3478/udp coturn bash
+#docker run -it --restart="on-failure:10"  -v $(pwd)/coturn:/coturn --net=host -p 3478:3478 -p 3478:3478/udp coturn bash
 FROM phusion/baseimage:0.9.16
 MAINTAINER Carl Kittelberger <icedream2k9@die-optimisten.net>
 
@@ -6,7 +6,6 @@ MAINTAINER Carl Kittelberger <icedream2k9@die-optimisten.net>
 ENV HOME /root
 
 # Use baseimage-docker's init system.
-CMD ["/sbin/my_init"]
 
 RUN apt-get update && apt-get dist-upgrade -y
 RUN apt-get install -y gdebi-core
@@ -24,3 +23,8 @@ RUN chmod +x /etc/service/turnserver/run
 
 # Clean up APT when done.
 RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+WORKDIR /tmp
+# CMD ["/sbin/my_init"]
+CMD ["bash"]
+
