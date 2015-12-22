@@ -1,7 +1,27 @@
-#general
-[browser support scorecard](http://iswebrtcreadyyet.com/)
+#ortc
+[openpeer](http://openpeer.org/)
 
+[ortc.org](http://ortc.org/)
+
+[Object RTC (ORTC) API for WebRTC](http://ortc.org/wp-content/uploads/2014/04/ortc.html)
+
+[ORTC and the Future of WebRTC](http://www.infoq.com/news/2014/08/ortc-webrtc)
+
+#general
+[xmpp beginner](http://www.im-net.org/sp/xmpp/)
+
+[MDN webrtc API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+
+[WEBRTC browser support](http://iswebrtcreadyyet.com/)
+
+[WEBRTC identity](https://www.terena.org/activities/tf-webrtc/meeting2/slides/20150519-webrtc-identity.pdf)
+
+#rfc
 [RFC3489 Session Traversal Utilities for NAT (STUN)](https://tools.ietf.org/html/rfc5389)
+
+[RFC4566 SDP: Session Description Protocol](https://tools.ietf.org/html/rfc4566)
+
+[RFC4960 Stream Control Transmission Protocol](https://tools.ietf.org/html/rfc4960)
 
 [RFC5780 NAT Behavior Discovery Using Session Traversal Utilities for NAT (STUN)](https://tools.ietf.org/html/rfc5780)
 
@@ -40,9 +60,17 @@
 [xirsys](http://xirsys.com/)
 [influxis](http://influxis.com/)
 
+#slide
 
+[最新Web 通信系API総まくり！WebRTC, Streams, Push api etc.](http://sssslide.com/www.slideshare.net/KensakuKOMATSU/web-apiwebrtc-streams-push-api-etc)
+
+[ビデオ通話・P2Pがコモディティ化する世界 WebRTCによるこれからを探る](http://sssslide.com/www.slideshare.net/KensakuKOMATSU/p2p-webrtc)
 
 #wiki
+
+[wiki Session Initiation Protocol](https://ja.wikipedia.org/wiki/Session_Initiation_Protocol)
+
+[wili Session Description Protocol](https://en.wikipedia.org/wiki/Session_Description_Protocol)
 
 [wiki STUN](https://en.wikipedia.org/wiki/STUN)
 
