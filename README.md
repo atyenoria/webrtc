@@ -3,6 +3,18 @@
 [introduction to video coding](http://people.xiph.org/~tterribe/pubs/lca2012/auckland/intro_to_video1.pdf)
 
 
+#api
+[WebRTC 1.0: Real-time Communication Between Browsers W3C Editor's Draft 22 December 2015](http://w3c.github.io/webrtc-pc/)
+
+[Media Capture and Streams W3C Editor's Draft 23 December 2015](http://w3c.github.io/mediacapture-main/)
+
+#siginaling server
+[How To TCP NAT Traversal using Node.js and a STUN Server](http://blog.sogilis.com/post/87085010136/how-to-tcp-nat-traversal-using-nodejs-and-a-stun)
+
+[cjdns](http://wiki.coffee0101.com/wiki/Cjdns)
+
+[What is AF_INET, and why do I need it?](http://stackoverflow.com/questions/1593946/what-is-af-inet-and-why-do-i-need-it)
+
 #ortc
 [openpeer](http://openpeer.org/)
 
@@ -36,6 +48,12 @@
 
 #general
 
+[webrtc.org](https://webrtc.org/)
+
+[bugs.chromium.org](https://bugs.chromium.org/p/webrtc/issues/list)
+
+[chromium-build.appspot.com](https://chromium-build.appspot.com/p/chromium/console)
+
 [webrtchacks](https://webrtchacks.com/about/)
 
 [IETF Real-Time Communication in WEB-browsers (rtcweb)](https://datatracker.ietf.org/wg/rtcweb/documents/)
@@ -57,6 +75,7 @@
 
 [What is ORTC: A WebRTC Competitor, WebRTC 2.0 or WebRTC 1.1?](https://bloggeek.me/ortc-webrtc/)
 #service
+
 
 [addlive](http://www.addlive.com/)
 
@@ -80,6 +99,9 @@
 
 [esna](http://www.esna.com/index.html#)
 
+[kobra.io](https://kobra.io/#/)
+
+[WebRTCで注目された海外企業のサービス19本一挙公開](https://html5experts.jp/yusuke-naka/1130/)
 #aquisition
 
 [tropo](http://tropo.acrossway.com/method/top)
@@ -122,6 +144,7 @@
 [A REST API For Access To TURN Services draft-uberti-behave-turn-rest-00](http://tools.ietf.org/html/draft-uberti-behave-turn-rest-00)
 
 #udp
+[wiki Maximum Transmission Unit](https://ja.wikipedia.org/wiki/Maimum_Transmission_Unit)
 
 [RFC3550 RTP: A Transport Protocol for Real-Time Applications](https://www.ietf.org/rfc/rfc3550.txt)
 
@@ -144,11 +167,26 @@
 
 [restund](http://creytiv.com/restund.html)
 
+[return](https://www.resiprocate.org/ReTurn_Overview)
 
-#service
+[CHOOSING AND USING COTURN AS A STUN AND TURN SERVER FOR ICE](http://www.furorteutonicus.eu/2014/09/30/choosing-and-using-coturn-as-a-stun-and-turn-server-for-ice/)
+#node turn server
+[freeice](https://github.com/DamonOehlman/freeice)
+
+
+
+#turn stun service
 [xirsys](http://xirsys.com/)
+
 [influxis](http://influxis.com/)
 
+[easyrtc](https://easyrtc.com/)
+
+[skedans](https://www.skedans.com/#)
+
+[priologic](https://www.priologic.com/)
+
+[kurento](http://www.kurento.org/)
 #slide
 
 [最新Web 通信系API総まくり！WebRTC, Streams, Push api etc.](http://sssslide.com/www.slideshare.net/KensakuKOMATSU/web-apiwebrtc-streams-push-api-etc)
