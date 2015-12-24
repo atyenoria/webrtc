@@ -1,3 +1,8 @@
+#algorithm
+
+[introduction to video coding](http://people.xiph.org/~tterribe/pubs/lca2012/auckland/intro_to_video1.pdf)
+
+
 #ortc
 [openpeer](http://openpeer.org/)
 
@@ -7,7 +12,34 @@
 
 [ORTC and the Future of WebRTC](http://www.infoq.com/news/2014/08/ortc-webrtc)
 
+[ORTC が切り開く SVC サイマルキャストと WebRTC NV](http://jxck.hatenablog.com/entry/ortc-to-webrtcnv)
+
+[ORTC API is now available in Microsoft Edge](https://blogs.windows.com/msedgedev/2015/09/18/ortc-api-is-now-available-in-microsoft-edge/)
+
+[webrtcH4cKS: ~ Microsoft’s ORTC Edge for WebRTC – Q&A with Bernard Aboba](https://webrtchacks.com/ortc-edge-microsoft-qa/)
+
+#codec video
+[AVCビデオとは何ですか](http://www.winxdvd.com/blog/avc.htm)
+
+[daala](https://xiph.org/daala/)
+
+[thor](https://github.com/cisco/thor)
+
+[cisco blog thor](http://blogs.cisco.com/collaboration/world-meet-thor-a-project-to-hammer-out-a-royalty-free-video-codec)
+
+[wiki HEVC](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding)
+
+[wiki Video Coding Experts Group](https://en.wikipedia.org/wiki/Video_Coding_Experts_Group)
+
+#codec audio
+[Vorbis](https://ja.wikipedia.org/wiki/Vorbis)
+
 #general
+
+[webrtchacks](https://webrtchacks.com/about/)
+
+[IETF Real-Time Communication in WEB-browsers (rtcweb)](https://datatracker.ietf.org/wg/rtcweb/documents/)
+
 [xmpp beginner](http://www.im-net.org/sp/xmpp/)
 
 [MDN webrtc API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
@@ -22,7 +54,8 @@
 
 [Video Interoperability in Lync 2013](http://blog.schertz.name/2012/07/video-interoperability-in-lync-2013/)
 
-[ORTC が切り開く SVC サイマルキャストと WebRTC NV](http://jxck.hatenablog.com/entry/ortc-to-webrtcnv)
+
+[What is ORTC: A WebRTC Competitor, WebRTC 2.0 or WebRTC 1.1?](https://bloggeek.me/ortc-webrtc/)
 #service
 
 [addlive](http://www.addlive.com/)
@@ -44,6 +77,18 @@
 [doublerobotics](http://www.doublerobotics.com/)
 
 [romotive](https://www.crunchbase.com/organization/romotive#/entity)
+
+[esna](http://www.esna.com/index.html#)
+
+#aquisition
+
+[tropo](http://tropo.acrossway.com/method/top)
+
+[screenhero](https://screenhero.com/login/)
+
+[screenhero demo](https://www.youtube.com/watch?v=5BOAArc7vfM)
+
+[jitsi](https://jitsi.org/Projects/JitsiVideobridge)
 
 #rfc
 [RFC3489 Session Traversal Utilities for NAT (STUN)](https://tools.ietf.org/html/rfc5389)
@@ -110,6 +155,14 @@
 
 [ビデオ通話・P2Pがコモディティ化する世界 WebRTCによるこれからを探る](http://sssslide.com/www.slideshare.net/KensakuKOMATSU/p2p-webrtc)
 
+[TPAC 2015 WebRTC WG 最新レポート](http://www.slideshare.net/td-nttcom/webrtc-tpac-2015)
+
+[Jitsi video bridge で遊んでみた](http://www.slideshare.net/tnoho/jitsi-video-bridge)
+
+[Kranky Geek WebRTC 2015 - What's next for WebRTC?](http://www.slideshare.net/webrtclive/kranky-geek-google-team)
+
+[W3C ORTC Community Group Meeting #10 November 20, 2015](https://docs.google.com/presentation/d/11JBlA-9gY4qZzUB6YhhMjeeA7tc9vSJowvs6tgI2f1c/edit#slide=id.p)
+
 #wiki
 
 [wiki Session Initiation Protocol](https://ja.wikipedia.org/wiki/Session_Initiation_Protocol)
@@ -126,8 +179,15 @@
 
 #etc
 
-[voluntas curation](http://qiita.com/voluntas/items/63cb73e4c9373e726a34)
+[aomedia](http://aomedia.org/)
 
+[WebRTC スタック実装する場合読んでおくべき RFC まとめ](http://qiita.com/voluntas/items/63cb73e4c9373e726a34)
+
+[WebRTC関連の記事等へのリンクまとめ1.3.23.md](http://qiita.com/hiroyuki_hon/items/cd433ceae471f41dda62)
+
+
+#crypt
+[wiki Elliptic Curve Digital Signature Algorithm](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 
 
 #extra
