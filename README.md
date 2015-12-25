@@ -141,8 +141,15 @@
 
 [RFC7478 Web Real-Time Communication Use Cases and Requirements](https://tools.ietf.org/html/rfc7478)
 
+[RFC6454 The Web Origin Concept](http://tools.ietf.org/html/rfc6454)
+
+[Transport Layer Security (TLS) Application-Layer Protocol Negotiation Extension](https://tools.ietf.org/html/rfc7301)
+
 [A REST API For Access To TURN Services draft-uberti-behave-turn-rest-00](http://tools.ietf.org/html/draft-uberti-behave-turn-rest-00)
 
+[An Origin Attribute for the STUN Protocol draft-johnston-tram-stun-origin-02](http://tools.ietf.org/html/draft-johnston-tram-stun-origin-02)
+
+[A Bandwidth Attribute for TURN draft-thomson-tram-turn-bandwidth-00](http://tools.ietf.org/html/draft-thomson-tram-turn-bandwidth-00)
 #udp
 [wiki Maximum Transmission Unit](https://ja.wikipedia.org/wiki/Maimum_Transmission_Unit)
 
@@ -169,10 +176,11 @@
 
 [return](https://www.resiprocate.org/ReTurn_Overview)
 
+[janus-gateway](https://github.com/meetecho/janus-gateway)
+
 [CHOOSING AND USING COTURN AS A STUN AND TURN SERVER FOR ICE](http://www.furorteutonicus.eu/2014/09/30/choosing-and-using-coturn-as-a-stun-and-turn-server-for-ice/)
 #node turn server
 [freeice](https://github.com/DamonOehlman/freeice)
-
 
 
 #turn stun service
@@ -203,17 +211,43 @@
 
 #wiki
 
-[wiki Session Initiation Protocol](https://ja.wikipedia.org/wiki/Session_Initiation_Protocol)
+[Session Initiation Protocol](https://ja.wikipedia.org/wiki/Session_Initiation_Protocol)
 
-[wili Session Description Protocol](https://en.wikipedia.org/wiki/Session_Description_Protocol)
+[Session Description Protocol](https://en.wikipedia.org/wiki/Session_Description_Protocol)
 
-[wiki STUN](https://en.wikipedia.org/wiki/STUN)
+[STUN](https://en.wikipedia.org/wiki/STUN)
 
-[wiki NAT](https://en.wikipedia.org/wiki/Network_address_translation)
+[NAT](https://en.wikipedia.org/wiki/Network_address_translation)
 
-[wiki UDP_hole_punching](https://en.wikipedia.org/wiki/UDP_hole_punching)
+[UDP_hole_punching](https://en.wikipedia.org/wiki/UDP_hole_punching)
 
 [webrtc security](http://webrtc-security.github.io/index.html)
+
+[Reliable User Datagram Protocol](https://en.wikipedia.org/wiki/Reliable_User_Datagram_Protocol)
+
+[Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)
+
+[ZRTP](https://en.wikipedia.org/wiki/ZRTP)
+
+[QUIC](https://en.wikipedia.org/wiki/QUIC)
+
+[SPDY](https://en.wikipedia.org/wiki/SPDY)
+
+[OAuth](https://en.wikipedia.org/wiki/OAuth)
+
+[OpenID](https://en.wikipedia.org/wiki/OpenID)
+
+[Facebook Platform](https://en.wikipedia.org/wiki/Facebook_Platform#Facebook_Connect)
+
+[Remote procedure call](https://en.wikipedia.org/wiki/Remote_procedure_call)
+
+[Internet Control Message Protocol](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
+
+#library
+[libevent](http://libevent.org/)
+
+#auth
+[RFC6749 The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
 
 #etc
 
@@ -223,10 +257,16 @@
 
 [WebRTC関連の記事等へのリンクまとめ1.3.23.md](http://qiita.com/hiroyuki_hon/items/cd433ceae471f41dda62)
 
+[h.323](https://en.wikipedia.org/wiki/H.323)
+
+[MCU（多地点接続装置）入門](http://www.h323.jp/mcu/index_mcu.html)
 
 #crypt
 [wiki Elliptic Curve Digital Signature Algorithm](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 
+#security
+[Webアプリ開発者のためのHTML5セキュリティ入門](http://www.slideshare.net/muneakinishimura/webhtml5-31749532)
 
+[cure53](https://cure53.de/)
 #extra
 docker-machine create -d virtualbox --virtualbox-memory "5000" --virtualbox-cpu-count "4" --virtualbox-disk-size "100000" l2
